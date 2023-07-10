@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+
+
+
+
+h1 {
+    color: #ca6680ff;
+    background-color: #edc79bff;
+    font-family: sans-serif;
+    text-align: center;
+    font-family: 'Satisfy', cursive;
+
+
+
+
+}
+
+h2 {
+    color: #ca6680ff;
+    background-color: #edc79bff;
+}
+
+h3 {
+    color: #ca6680ff;
+    background-color: #edc79bff;
+}
+
+
+h4 {
+    color: #ca6680ff;
+    background-color: #edc79bff;
+}
+
+.buscador {
+    background-color: #edc79bff;
+}
+
+body {
+    margin: 0;
+    padding: 20px;
+}
+
+.producto {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+    background-color: #d57a66ff;
+}
+
+.producto img {
+    width: 500px;
+    border-radius: 5px;
+
+
+}
+
+.producto p {
+    font-family: 'Raleway', sans-serif;
+    text-align: justify;
+}
+
+
+.info {
+    margin: 0%;
+    background-color: #d57a66ff;
+}
+
+
+p {
+    text-align: justify;
+}
+
+footer {
+    background-color: #edc79bff;
+}
+
+footer li {
+    color: #ca6680ff;
+}
+
+.blog p {
+    background-color: #d57a66ff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.ini p {
+    background-color: #d57a66ff;
+    font-family: 'Raleway', sans-serif;
+}
+
+.section img{
+    max-width: 500px;
+}
+
